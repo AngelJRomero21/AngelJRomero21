@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola! 👋
+
+-🤔 I’m looking for help with RedLinuxClick
+- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on Crom Studio
 
 <!--
 **AngelJRomero21/AngelJRomero21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
