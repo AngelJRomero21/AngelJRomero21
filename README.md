@@ -1,6 +1,6 @@
 ### Hola! 👋
 
--🤔 I’m looking for help with RedLinuxClick
+- 🤔 I’m looking for help with RedLinuxClick
 - 🌱 I’m currently learning Kotlin
 - 🔭 I’m currently working on Crom Studio
 
