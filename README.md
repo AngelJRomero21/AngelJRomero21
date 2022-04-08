@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Crom Studio](https://www.cromstudio.ml)
 
-- 🌱 Actualmente estoy aprendiendo **Kotlin**
+- 🌱 Actualmente estoy reforzando mis conocimientos de **Kotlin**
 
 - 📫 Metodo De Contacto **angelromero@cromstudio.ml**
 
