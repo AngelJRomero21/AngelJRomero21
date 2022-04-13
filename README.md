@@ -7,6 +7,10 @@
 
 - 📫 Metodo De Contacto **angelromero@cromstudio.ml**
 
+- Visita mi Blog [LinuxClick](https://blog.linux-click.ml)
+
+- Visita mi [Pagina Personal](https://angeljromero21.github.io/)
+
 <!--
 **AngelJRomero21/AngelJRomero21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
