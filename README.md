@@ -4,7 +4,7 @@ center>
   
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angeljromero21" alt="angeljromero21" /></a> </p>
 
-  <p align="center"> <a href="https://twitter.com/angeljromero21" target="blank"><img src="https://img.shields.io/twitter/follow/patojadoficial?logo=twitter&style=for-the-badge" alt="angeljromero21" /></a> </p>
+  <p align="center"> <a href="https://twitter.com/angeljromero21" target="blank"><img src="https://img.shields.io/twitter/follow/angeljromero21?logo=twitter&style=for-the-badge" alt="angeljromero21" /></a> </p>
 
 </center>
 - 🔭 Actualmente estoy trabajando en [Crom Studio](https://www.cromstudio.ml)
