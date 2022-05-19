@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋</h1>
 
-center>
+<center>
   
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angeljromero21" alt="angeljromero21" /></a> </p>
 
