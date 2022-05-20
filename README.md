@@ -7,6 +7,9 @@
   <p align="center"> <a href="https://twitter.com/angeljromero21" target="blank"><img src="https://img.shields.io/twitter/follow/angeljromero21?logo=twitter&style=for-the-badge" alt="angeljromero21" /></a> </p>
 
 </center>
+
+
+
 - 🔭 Actualmente estoy trabajando en [Crom Studio](https://www.cromstudio.ml)
 
 - 🌱 Actualmente estoy reforzando mis conocimientos de **Kotlin**
