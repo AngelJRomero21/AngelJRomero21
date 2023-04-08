@@ -14,7 +14,7 @@
 
 - 🌱 Actualmente estoy reforzando mis conocimientos de **Kotlin**
 
-- 📫 Metodo De Contacto **angelromero@redlinuxclick.com** & **angelromero@cromstudio.com.ve
+- 📫 Metodo De Contacto **angelromero@redlinuxclick.com** & **angelromero@cromstudio.com.ve**
  
 - Visita [Red LinuxClick](https://redlinuxclick.com/)
 
