@@ -10,15 +10,13 @@
 
 
 
-- 🔭 Actualmente estoy trabajando en [Crom Studio](https://www.cromstudio.ml)
+- 🔭 Actualmente estoy trabajando en [Crom Studio](https://www.cromstudio.com.ve)
 
 - 🌱 Actualmente estoy reforzando mis conocimientos de **Kotlin**
 
-- 📫 Metodo De Contacto **angelromero@cromstudio.ml**
-
-- Visita mi Blog [LinuxClick](https://blog.linux-click.ml)
-
-- Visita mi [Pagina Personal](https://angeljromero21.github.io/)
+- 📫 Metodo De Contacto **angelromero@redlinuxclick.com** & **angelromero@cromstudio.com.ve
+ 
+- Visita [Red LinuxClick](https://redlinuxclick.com/)
 
 
 <!-- Hola! me he fijado en el readme e Joaquin decima-->
